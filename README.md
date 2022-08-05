@@ -1,16 +1,28 @@
 # conta_cripto
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/79880613/183113817-52dadf9c-c5ca-4885-81d4-ac406387c695.mov
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://user-images.githubusercontent.com/79880613/183113852-d6048e6b-ef3f-4ded-bf54-12595310f6d9.mov
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``Dart``
+- ``Flutter``
+- ``VsCode IDEA``
+- `` Gerenciamento de Estado -GEtx``
+- ``Persistência de Dados``
+- ``HTTP``
+- ``Web3Dart``
+- ``Ethereum IDEA``
+- ``Solid``
+- ``MetaMask``
+- ``Ethereum API``
+- ``Ganache``
+
+
+
